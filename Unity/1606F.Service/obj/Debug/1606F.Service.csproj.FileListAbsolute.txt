@@ -1,0 +1,9 @@
+E:\学习\小二\Unity\1606F.Service\bin\Debug\1606F.Service.dll
+E:\学习\小二\Unity\1606F.Service\bin\Debug\1606F.Service.pdb
+E:\学习\小二\Unity\1606F.Service\bin\Debug\1606F.IService.dll
+E:\学习\小二\Unity\1606F.Service\bin\Debug\1606F.Model.dll
+E:\学习\小二\Unity\1606F.Service\bin\Debug\1606F.IService.pdb
+E:\学习\小二\Unity\1606F.Service\bin\Debug\1606F.Model.pdb
+E:\学习\小二\Unity\1606F.Service\obj\Debug\1606F.Service.csprojResolveAssemblyReference.cache
+E:\学习\小二\Unity\1606F.Service\obj\Debug\1606F.Service.dll
+E:\学习\小二\Unity\1606F.Service\obj\Debug\1606F.Service.pdb
